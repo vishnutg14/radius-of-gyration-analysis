@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# This code is used to analyse the gyrate.xvg file generated after the analysis of GROMACS trajectory file
+# This code is used to analyze the gyrate.xvg file generated after the analysis of the GROMACS trajectory file
 
 plt.style.use('ggplot') # using ggplot style since its my favourite
 
